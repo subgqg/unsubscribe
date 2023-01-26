@@ -1,5 +1,5 @@
-# unsuscribe
-script to help you unsubscriber youtube channels from your list
+# UNsubscribe
+Script to help you unsubscriber YouTube Channels from your list
 
 1. Open Inspect Element (Ctrl + Shift + I) or Right Click and Select Inspect
 2. Click on Console
